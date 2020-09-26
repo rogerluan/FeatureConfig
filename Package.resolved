@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JSEN",
+        "repositoryURL": "https://github.com/rogerluan/JSEN",
+        "state": {
+          "branch": null,
+          "revision": "35b0e956474a031838dbe779de03cb5c242d5ca1",
+          "version": "1.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
