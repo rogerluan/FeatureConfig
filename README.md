@@ -25,8 +25,6 @@
   </a>
 
   <p align="center">
-    <a href="#preview">View Demo</a>
-    ·
     <a href="https://github.com/rogerluan/FeatureConfig/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/rogerluan/FeatureConfig/issues/new/choose">Request Feature</a>
