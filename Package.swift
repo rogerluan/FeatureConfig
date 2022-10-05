@@ -6,8 +6,7 @@ import PackageDescription
 let package = Package(
     name: "FeatureConfig",
     platforms: [
-        .macOS(.v11),
-        .iOS(.v14),
+        .macOS(.v10_15),
     ],
     products: [
         .library(name: "FeatureConfig", targets: ["FeatureConfig"]),
