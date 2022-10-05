@@ -109,7 +109,7 @@ To add a new feature config, use the `@Feature` property wrapper in an instance 
 import FeatureConfig
 
 class MyView {
-    @Feature("is_super_like_enabled", default: true) private var isSuperLikeEnabled: Bool
+    @Feature("is_super_like_enabled", default: false) private var isSuperLikeEnabled: Bool
 
     func setUpSuperLike() {
         guard isSuperLikeEnabled else { return }
