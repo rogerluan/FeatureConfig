@@ -15,4 +15,4 @@ repository:
   homepage: https://github.com/rogerluan/FeatureConfig
 
   # A comma-separated list of topics to set on the repository
-  topics: feature flag, swift, spm, ios
+  topics: swift, spm, ios
