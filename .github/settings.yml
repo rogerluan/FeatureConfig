@@ -1,5 +1,7 @@
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 
+_extends: .github # https://github.com/rogerluan/.github
+
 repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
